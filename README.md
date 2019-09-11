@@ -1,4 +1,4 @@
-# optionnel_2019
+# On passe un super moment à Toulouse 
 matériel pour l'enseignement optionnel des DQPRM 2017-2019
 ## Programme
 --------------------
